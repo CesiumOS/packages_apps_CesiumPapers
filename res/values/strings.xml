@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2017 ParanoidAndroid Project
+<!-- Copyright (C) 2020 CesiumOS Project
 
      Licensed under the GNU GPLv2 license
 
@@ -8,5 +8,5 @@
 -->
 
 <resources>
-    <string name="app_name">Paranoid Papers</string>
+    <string name="app_name">Cesium Papers</string>
 </resources>

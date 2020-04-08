@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012-2020 ParanoidAndroid Project
+# Copyright (C) 2019-2020 CesiumOS Project
 #
 # Licensed under the GNU GPLv2 license
 #
@@ -14,7 +14,7 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
 LOCAL_SDK_VERSION := current
 
-LOCAL_PACKAGE_NAME := ParanoidPapers
+LOCAL_PACKAGE_NAME := CesiumPapers
 
 LOCAL_USE_AAPT2 := true
 
